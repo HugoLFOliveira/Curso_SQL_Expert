@@ -1,0 +1,21 @@
+# *** Arquivos de sistema / IDE (SSMS / VS) ***
+.vs/
+**/.vs/
+.git/
+
+# Ignorar arquivos temporários do VS Shell
+*.temp
+*.user
+*.sqlite
+*.old
+*.cache
+*.tmp
+*.log
+*.xlsx
+*.git
+*.md
+*.txt
+*.json
+*.wsuo
+*.slnx.sqlite
+*.tmp.json
