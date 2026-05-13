@@ -1,0 +1,47 @@
+# *** Arquivos de sistema / IDE (SSMS / VS) ***
+.vs/
+**/.vs/
+.git/
+
+# Ignorar arquivos temporários do VS Shell
+*.suo
+*.temp
+*.user
+*.slnx
+*.sln.docstates
+*.userosscache
+*.sqlite
+*.old
+*.cache
+*.tmp
+*.log
+*.xlsx
+*.git
+*.md
+*.txt
+*.json
+*.wsuo
+*.slnx.sqlite
+*.tmp.json
+*.db
+VSWorkspaceState.json
+*.orig
+/dump
+*.mdf
+*.ldf
+*.ndf
+~$*
+*.tmp.docx
+*.tmp.xlsx
+*.tmp.pptx
+*.tmp.pdf
+*.bak
+*.trn
+
+# Exceções
+
+!.sql
+#!.md
+/LICENSE
+#!README.md
+/.vs/VSWorkspaceState.json
